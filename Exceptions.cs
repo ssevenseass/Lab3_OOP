@@ -6,7 +6,6 @@ namespace Race
 {
     class BadType : Exception
     {
-
         public BadType(string message) : base(message)
         {
         }
